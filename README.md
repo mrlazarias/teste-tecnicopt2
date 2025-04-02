@@ -14,7 +14,7 @@ Script para automatizar o login e busca de beneficiários no portal da SulAméri
 2. Instale as dependências:
 
 ```bash
-pip install requests
+pip install -r requirements.txt
 ```
 
 ## Uso
