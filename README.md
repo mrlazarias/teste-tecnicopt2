@@ -51,6 +51,3 @@ beneficiary_code = "55788888485177660015" # Altere para o código do beneficiár
 - Busca paciente pelo número da carteira
 - Tratamento automático de sessão expirada
 
-## Logs
-
-Os logs são exibidos no console, mostrando o progresso da automação. 
